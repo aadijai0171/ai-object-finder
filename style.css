@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    
+    }
+    
+    .heading{
+        color: blueviolet;
+        width:100%;
+        font-size: 30px;
+        margin-top: 0;
+        
+    }
+    
+    .footer{
+        color:burlywood;
+        background-color: green;
+        position: fixed;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        line-height: 4;
+        font-size: 20px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    
+    
+    }
+
